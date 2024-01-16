@@ -1,0 +1,30 @@
+C:\Users\baps\Desktop\Final Game\Final Game\bin\Debug\net6.0\Final Game.exe
+C:\Users\baps\Desktop\Final Game\Final Game\bin\Debug\net6.0\Final Game.deps.json
+C:\Users\baps\Desktop\Final Game\Final Game\bin\Debug\net6.0\Final Game.runtimeconfig.json
+C:\Users\baps\Desktop\Final Game\Final Game\bin\Debug\net6.0\Final Game.dll
+C:\Users\baps\Desktop\Final Game\Final Game\bin\Debug\net6.0\Final Game.pdb
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.csproj.AssemblyReference.cache
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.AssemblyInfoInputs.cache
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.AssemblyInfo.cs
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.csproj.CoreCompileInputs.cache
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.dll
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\refint\Final Game.dll
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.pdb
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\Final Game.genruntimeconfig.cache
+C:\Users\baps\Desktop\Final Game\Final Game\obj\Debug\net6.0\ref\Final Game.dll
+D:\Study\Programming Fundamentals\Final Game\Final Game\bin\Debug\net6.0\Final Game.exe
+D:\Study\Programming Fundamentals\Final Game\Final Game\bin\Debug\net6.0\Final Game.deps.json
+D:\Study\Programming Fundamentals\Final Game\Final Game\bin\Debug\net6.0\Final Game.runtimeconfig.json
+D:\Study\Programming Fundamentals\Final Game\Final Game\bin\Debug\net6.0\Final Game.dll
+D:\Study\Programming Fundamentals\Final Game\Final Game\bin\Debug\net6.0\Final Game.pdb
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.csproj.AssemblyReference.cache
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.AssemblyInfoInputs.cache
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.AssemblyInfo.cs
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.csproj.CoreCompileInputs.cache
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.dll
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\refint\Final Game.dll
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.pdb
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\Final Game.genruntimeconfig.cache
+D:\Study\Programming Fundamentals\Final Game\Final Game\obj\Debug\net6.0\ref\Final Game.dll
